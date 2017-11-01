@@ -1,0 +1,48 @@
+body{
+   background:url(images/content.png) no-repeat fixed;
+   background-size:100% 100%;
+   font-family:"华文楷体";
+}
+form{
+	margin:5px 0 0 18px;
+}
+#div1{
+	
+	width:55%;
+	background-color:white;
+	//position:absolute;
+	margin:auto;	
+}
+#div1 label{
+	margin:auto;	
+	font-size:18px;	
+}
+#div1 img{
+	width:708px;
+	height:330px;	
+}
+p{
+	font-size:22px;
+	margin-bottom:3px;
+}
+label{
+	margin-left:2px;
+}
+h2{
+	font-weight:normal;
+	text-align:center;	
+}
+span{
+	font-size:18px;
+	color:red;
+	margin-left:4px;
+}
+
+div div #test{
+	
+	background:#6495ed;
+	width:150px;
+	height:36px;
+	margin:auto;
+	border-radius:15px;
+}
